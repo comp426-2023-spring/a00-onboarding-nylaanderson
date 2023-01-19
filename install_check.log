@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin nylas-air-7.wireless-1x.unc.edu 21.6.0 Darwin Kernel Version 21.6.0: Wed Aug 10 14:28:23 PDT 2022; root:xnu-8020.141.5~2/RELEASE_ARM64_T6000 arm64
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.32.1 (Apple Git-133)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Jun 17 2022 21:26:11)
+CURL:	[/Users/nylaanderson/opt/anaconda3/bin/curl] curl 7.84.0 (arm64-apple-darwin20.0.0) libcurl/7.84.0 OpenSSL/1.1.1q zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/Users/nylaanderson/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
